@@ -6,7 +6,7 @@ import SearchIcon from './search.svg';
 import Moviecard from './Moviecard';
 
 // Api key : 59ca70ba
-const API_URL = "http://www.omdbapi.com?apikey=59ca70ba";
+const API_URL = "https://www.omdbapi.com?apikey=59ca70ba";
 
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("Batman");
