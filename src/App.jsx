@@ -3,7 +3,7 @@ import './App.css';
 import axios from 'axios';
 
 import SearchIcon from './search.svg';
-import Moviecard from './moviecard';
+import Moviecard from './Moviecard';
 
 // Api key : b6003d8a
 const API_URL = "http://www.omdbapi.com?apikey=b6003d8a";
