@@ -1,5 +1,5 @@
 ## ReactJS-MovieSearch-
-# Site is live at AWS Amplify Service: 
+# Site is live on AWS Amplify Service: 
   https://main.d35z5yvdjbmh9u.amplifyapp.com/
 
 # If Unable 
